@@ -15,8 +15,8 @@ output:
 
 
 
-### Link to Resources Page - [LINK](https://shambhavipriyam.github.io/covid_communityMH/index.html)
+### Link to Resource Page - [[LINK](https://shambhavipriyam.github.io/covid_communityMH/index.html)]
 This is a community project, please help expand this resource. 
 
-### Link to the form "Need for Therapy/Counseling During COVID-19" - [LINK](https://forms.gle/1BwEE94jK5uoBAtX6)
+### Link to the form "Need for Therapy/Counseling During COVID-19" - [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
 If you are a social worker or clinical psychologist, please DM [what_a_sham](https://www.instagram.com/what_a_sham/) in order to help or volunteer.
