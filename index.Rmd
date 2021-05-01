@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains a compilation of links, and material from cited sources. If you want to help expand or improve this please get in touch with [what_a_sham](https://www.instagram.com/what_a_sham/) through Instagram or send a pull request ([Github](https://github.com/shambhavipriyam/covid_communityMH))._
+_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains a compilation of links, and material from cited sources. If you want to help expand or improve this please get in touch with [what_a_sham](https://www.instagram.com/what_a_sham/) (Instagram) or send a pull request ([Github](https://github.com/shambhavipriyam/covid_communityMH))._
 
 ## If you are in need of immediate help
 
@@ -31,7 +31,7 @@ Other helpline numbers:
   - Sneha - https://snehaindia.org/new/ - +91 44 24640050 - (10am – 10pm all days)
 
 
-**If you are in need of therapy/counseling, but are unable to find help, fill out this form and what_a_sham will get in touch with you to find a resource person or mental health professional.**
+**If you are in need of therapy/counseling, but are unable to find help, fill out this form and [what_a_sham](https://www.instagram.com/what_a_sham/) will get in touch with you to find a resource person or mental health professional.**
 [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
 
 *If you are a social worker or clinical psychologist, please DM [what_a_sham](https://www.instagram.com/what_a_sham/) in order to help or volunteer.*
@@ -47,7 +47,7 @@ Caring for your mental health and of those around you can help you become more r
 Taking care of yourself can also help you care better for others.
 
 ### Stress can manifest itself in the following ways
-From [Centers for Disease Control and Preventin](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html)
+From [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html)
 
   > 1. Feelings of fear, anger, sadness, worry, numbness, or frustration.
   > 2. Changes in appetite, energy, desires, and interests.
@@ -103,7 +103,7 @@ From [MOHFW](https://www.mohfw.gov.in/pdf/HCWMentalHealthSupportGuidanceJuly2020
 
 
 ## Important Resources 
-Some resources you can use: 
+Some resources you can read to get a better understanding of how to get help for yourself and offer help to others: 
 
 1. [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-eng.pdf?sequence=1&isAllowed=y) (WHO) – _Illustrated guide on dealing with stress_
 2. CDC guidelines on [Coping with Stress](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) – _compilation of resources and tips_ 
