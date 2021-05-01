@@ -1,5 +1,5 @@
 
-## Caring for Your Mental Health During Indiaâ€™s COVID-19 Surge"
+## Caring for Your Mental Health During India'€™s COVID-19 Surge
 
 Repo for COVID-19 Mental Heath Resources 
 

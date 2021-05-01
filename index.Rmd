@@ -18,23 +18,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains compilation of links with the sources cited. If you want to help expand or improve this please get in touch with @what_a_sham [(Instagram)](https://www.instagram.com/what_a_sham/) or send a pull request ([Github](https://github.com/shambhavipriyam/covid_communityMH))._
+_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains a compilation of links, and material from cited sources. If you want to help expand or improve this please get in touch with @what_a_sham [(Instagram)](https://www.instagram.com/what_a_sham/) or send a pull request ([Github](https://github.com/shambhavipriyam/covid_communityMH))._
 
-## If you are in need of immediate help:
+## If you are in need of immediate help
 
 **Behavioural Health: Psycho-Social Toll free helpline (India) – 08046110007 (MOHFW – all days)**
 
-Other Helpline numbers:
+Other helpline numbers:
 
   - Parivarthan - https://parivarthan.org/ - +91 7676602602 - (1pm – 10pm Monday to Friday)
   - Aasra – (also by state): http://www.aasra.info/helpline.html  - +91 9820466726 (24 hours) 
   - Sneha - https://snehaindia.org/new/ - +91 44 24640050 - (10am – 10pm all days)
 
 
-**If you are in need for therapy/counseling but unable to find help, fill out this form and @what_a_sham will get in touch with you to find a resource person or mental health professional.**
+**If you are in need for therapy/counseling but are unable to find help, fill out this form and @what_a_sham will get in touch with you to find a resource person or mental health professional.**
 [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
 
-*If you are a social worker or clinical psychologist, please DM [what_a_sham](https://www.instagram.com/what_a_sham/) in order to help.*
+*If you are a social worker or clinical psychologist, please DM [what_a_sham](https://www.instagram.com/what_a_sham/) in order to help or volunteer.*
 
 
 ## Understanding Stress and Anxiety 
@@ -46,7 +46,7 @@ Make sure to check on your friends and ensure they are healthy mentally during t
 Caring for your mental health and of those around you can help you become more resilient. 
 Taking care of yourself can also help you care better for others.
 
-### Stress can manifest in the following ways: 
+### Stress can manifest in the following ways
 From [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html)
 
   > 1. Feelings of fear, anger, sadness, worry, numbness, or frustration.
@@ -65,7 +65,7 @@ From [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-
 
 
 ### Where in your body is _stress_
-From: [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-eng.pdf?sequence=1&isAllowed=y)
+From [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-eng.pdf?sequence=1&isAllowed=y)
 
 <div align="center">
 <figure>
@@ -84,6 +84,8 @@ From: [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstrea
 
 ## Self-help 
 
+Here are some things you can do on your own and tell others to do:
+
 ### Yoga for stress 
 From [MOHFW](https://www.mohfw.gov.in/pdf/HCWMentalHealthSupportGuidanceJuly20201.pdf)
 
@@ -96,21 +98,21 @@ From [MOHFW](https://www.mohfw.gov.in/pdf/HCWMentalHealthSupportGuidanceJuly2020
 
 
 ### App based meditation
-1. Headspace – 10 min meditation to Reframe Stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app](https://www.headspace.com/headspace-meditation-app)
-2. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app](https://www.calm.com/)
+1. Headspace – 10 min meditation to Reframe Stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app.](https://www.headspace.com/headspace-meditation-app)
+2. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app.](https://www.calm.com/)
 
 
 ## Resources 
-Some resources you can use 
+Some resources you can use: 
 
 1. [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-eng.pdf?sequence=1&isAllowed=y) (WHO) – _Illustrated guide on dealing with stress_
 2. CDC guidelines on [Coping with Stress](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html) – _compilation of resources and tips_ 
 3. **Conversations can help** – Here is [_how to have conversations with others_](https://howrightnow.org/talk) (video)
-4. Tips to face [COVID related anxiety](https://www.allencomm.com/courses/covid19_5_tips_to_face_your_anxiety/index.html) – 5 tips on dealing with anxiety
+4. Tips to face [COVID related anxiety](https://www.allencomm.com/courses/covid19_5_tips_to_face_your_anxiety/index.html) – _5 tips on dealing with anxiety_
 5. Caring for older [adult’s mental health](https://afsp.org/story/covid-19-we-must-care-for-older-adults-mental-health) – _short article (3 mins)_ 
 6. Emotional and [spiritual care](https://3hb3e83lj75i1iikjx1wkj2o-wpengine.netdna-ssl.com/wp-content/uploads/light_our_way_2018_final-published-copy.pdf) during disaster – _guide for volunteers and responders_
-7. Managing family [conflict with intimate partners](https://www.cstsonline.org/assets/media/documents/CSTS_FS_Managing_Family_Conflict_While_Home.pdf) – _2 page pamphlet with tips_
-8. Protecting [early childhood impacts](https://developingchild.harvard.edu/resources/protecting-our-children-covid-19s-impact-on-early-childhood-and-aces/?utm_source=newsletter&utm_medium=email&utm_campaign=september_2020) - _Webinar_
+7. Managing family [conflict with intimate partners](https://www.cstsonline.org/assets/media/documents/CSTS_FS_Managing_Family_Conflict_While_Home.pdf) – _2-page pamphlet with tips_
+8. Protecting [early childhood impacts](https://developingchild.harvard.edu/resources/protecting-our-children-covid-19s-impact-on-early-childhood-and-aces/?utm_source=newsletter&utm_medium=email&utm_campaign=september_2020) - _webinar_
 9. Supporting [children and yourself](https://46y5eh11fhgw3ve3ytpwxt9r-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/COVID-19_for_families_FINAL.pdf) – _3-page handout_ 
 10.	**For parents**: [families and children](https://childmind.org/coping-during-covid-19-resources-for-parents/) – _collection of resources_
 11.	Helping [family with stress](https://www.atsdr.cdc.gov/emes/health_professionals/documents/relocationstress_508.pdf) – _short handout_
@@ -118,4 +120,4 @@ Some resources you can use
 13.	[Managing mental illness in Hospitals](https://www.mohfw.gov.in/pdf/GuidelinesforDeliveryofMentalMentalHealthcareServicesduringtheCOVID19.pdf) – _MOHFW guideline_ 
 14.	[Guide for general medical and mental healthcare settings](https://www.mohfw.gov.in/pdf/COVID19Final2020ForOnline9July2020.pdf) – _MOHFW guideline_
 15.	**For community leaders**: [Grief leadership](https://www.cstsonline.org/assets/media/documents/CSTS_FS_Grief_Leadership_During_COVID19.pdf) – _2-page pamphlet with tips_
-16.	**For faith leader**: _Webinar_ on [mental health and anxiety management](https://www.youtube.com/watch?v=8HJ7q-xs7_U) 
+16.	**For faith leader**: _webinar_ on [mental health and anxiety management](https://www.youtube.com/watch?v=8HJ7q-xs7_U) 
