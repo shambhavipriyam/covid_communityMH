@@ -1,7 +1,7 @@
 ---
 title: "Caring for Your Mental Health During India’s COVID-19 Surge"
 ## author: "Shambhavi Priyam"
-date: "Last updated: May 1, 2021"
+date: "Last updated: May 2, 2021"
 output:
   html_document:
     theme: flatly
@@ -26,8 +26,10 @@ _Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com
 
 Other helpline numbers:
 
-  - Parivarthan - https://parivarthan.org/ - +91 7676602602 - (1pm – 10pm Monday to Friday)
   - Aasra – (numbers also by state on website): http://www.aasra.info/helpline.html  - +91 9820466726 - (24 hours) 
+  - iCall: https://icallhelpline.org/ - +91 9152987821 - (10am - 8pm Monday to Saturday)
+  - Mpower: https://mpowerminds.com/oneonone - 1800-120-820050 (24 hours)
+  - Parivarthan - https://parivarthan.org/ - +91 7676602602 - (1pm – 10pm Monday to Friday)
   - Sneha - https://snehaindia.org/new/ - +91 44 24640050 - (10am – 10pm all days)
 
 
