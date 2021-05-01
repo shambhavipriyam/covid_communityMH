@@ -59,9 +59,7 @@ From [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-
 ### Mental Health Matters 
 [Video from Ministry of Health and Family Welfare](https://www.youtube.com/watch?v=rJENzEE4xBE) (July 2020)
 
-[![Video](pics/video.png)](https://www.youtube.com/watch?v=rJENzEE4xBE "Audi R8")
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rJENzEE4xBE" frameborder="0" allowfullscreen></iframe>
+[![Video](pics/video.png)](https://www.youtube.com/watch?v=rJENzEE4xBE)
 
 
 ### Where in your body is _stress_
