@@ -3,8 +3,8 @@ title: "Caring for Your Mental Health During India’s COVID-19 Surge"
 ## author: "Shambhavi Priyam"
 date: "Last updated: May 1, 2021"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -54,6 +54,9 @@ From [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-
 
 ### Mental Health Matters 
 [Video from Ministry of Health and Family Welfare](https://www.youtube.com/watch?v=rJENzEE4xBE) (July 2020)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rJENzEE4xBE" frameborder="0" allowfullscreen></iframe>
+
 
 ### Where in your body is _stress_
 From: [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-eng.pdf?sequence=1&isAllowed=y)
