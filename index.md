@@ -16,7 +16,7 @@ output:
 
 
 
-_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains a compilation of links, and material from cited sources. If you want to help expand or improve this please get in touch with @what_a_sham [(Instagram)](https://www.instagram.com/what_a_sham/) or send a pull request ([Github](https://github.com/shambhavipriyam/covid_communityMH))._
+_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains a compilation of links, and material from cited sources. If you want to help expand or improve this please get in touch with [what_a_sham](https://www.instagram.com/what_a_sham/) through Instagram or send a pull request ([Github](https://github.com/shambhavipriyam/covid_communityMH))._
 
 ## If you are in need of immediate help
 
@@ -25,11 +25,11 @@ _Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com
 Other helpline numbers:
 
   - Parivarthan - https://parivarthan.org/ - +91 7676602602 - (1pm – 10pm Monday to Friday)
-  - Aasra – (also by state): http://www.aasra.info/helpline.html  - +91 9820466726 (24 hours) 
+  - Aasra – (numbers also by state on website): http://www.aasra.info/helpline.html  - +91 9820466726 - (24 hours) 
   - Sneha - https://snehaindia.org/new/ - +91 44 24640050 - (10am – 10pm all days)
 
 
-**If you are in need for therapy/counseling but are unable to find help, fill out this form and @what_a_sham will get in touch with you to find a resource person or mental health professional.**
+**If you are in need of therapy/counseling, but are unable to find help, fill out this form and what_a_sham will get in touch with you to find a resource person or mental health professional.**
 [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
 
 *If you are a social worker or clinical psychologist, please DM [what_a_sham](https://www.instagram.com/what_a_sham/) in order to help or volunteer.*
@@ -37,15 +37,15 @@ Other helpline numbers:
 
 ## Understanding Stress and Anxiety 
 Many of us and our friends may be facing stress and trauma because of the pandemic. 
-Whether you are a sick person, caring for one, facing loss of family or just feel helpless hearing the news of loss around you – COVID-19 can affect your mental health in multiple ways. 
+Whether you are suffering from the illness during this time, caring for one, facing loss of family, or just feel helpless hearing the news of loss around you, COVID-19 can affect your mental health in multiple ways. 
 
-Make sure to check on your friends and ensure they are healthy mentally during this time. This would be applicable specifically of older people in your family, domestic staff, and those less privileged who often brush off these problems. 
+Make sure to check on your friends and ensure they are healthy mentally during this time. This would be applicable specifically TO older people in your family, domestic staff, and those less privileged who often brush off these problems.
 
 Caring for your mental health and of those around you can help you become more resilient. 
 Taking care of yourself can also help you care better for others.
 
-### Stress can manifest in the following ways
-From [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html)
+### Stress can manifest itself in the following ways
+From [Centers for Disease Control and Preventin](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html)
 
   > 1. Feelings of fear, anger, sadness, worry, numbness, or frustration.
   > 2. Changes in appetite, energy, desires, and interests.
@@ -62,7 +62,7 @@ From [CDC](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-
 [![Video](pics/video.png)](https://www.youtube.com/watch?v=rJENzEE4xBE)
 
 
-### Where in your body is _stress_
+### Where in your body is _stress_?
 From [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-eng.pdf?sequence=1&isAllowed=y)
 
 <div align="center">
@@ -96,11 +96,11 @@ From [MOHFW](https://www.mohfw.gov.in/pdf/HCWMentalHealthSupportGuidanceJuly2020
 
 
 ### App based meditation
-1. Headspace – 10 min meditation to Reframe Stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app.](https://www.headspace.com/headspace-meditation-app)
+1. Headspace – 10 min meditation to reframe stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app.](https://www.headspace.com/headspace-meditation-app)
 2. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app.](https://www.calm.com/)
 
 
-## Resources 
+## Important Resources 
 Some resources you can use: 
 
 1. [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-eng.pdf?sequence=1&isAllowed=y) (WHO) – _Illustrated guide on dealing with stress_
