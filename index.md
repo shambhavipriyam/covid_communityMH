@@ -16,7 +16,7 @@ output:
 
 
 
-_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains compilation of links with the sources cited. If you want to help expand or improve this please get in touch with @what_a_sham [(Instagram)](https://www.instagram.com/what_a_sham/) or send a pull request (Github)._
+_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains compilation of links with the sources cited. If you want to help expand or improve this please get in touch with @what_a_sham [(Instagram)](https://www.instagram.com/what_a_sham/) or send a pull request ([Github](https://github.com/shambhavipriyam/covid_communityMH))._
 
 ## If you are in need of immediate help:
 
@@ -29,7 +29,7 @@ Other Helpline numbers:
   - Sneha - https://snehaindia.org/new/ - +91 44 24640050 - (10am – 10pm all days)
 
 
-**If you are in need for therapy/counselling but unable to find help, fill out this form and @what_a_sham will get in touch with you to find a resource person or mental health professional.**
+**If you are in need for therapy/counseling but unable to find help, fill out this form and @what_a_sham will get in touch with you to find a resource person or mental health professional.**
 [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
 
 *If you are a social worker or clinical psychologist, please DM [what_a_sham](https://www.instagram.com/what_a_sham/) in order to help.*
