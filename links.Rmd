@@ -17,8 +17,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Link to Resources Page - [bit.ly/3388trO](bit.ly/3388trO)
+### Link to Resources Page - [bit.ly/3388trO](https://shambhavipriyam.github.io/covid_communityMH/index.html)
 This is a community project, please help expand this resource. 
 
-### Link to the form "Need for Therapy/Counseling During COVID-19" - [bit.ly/3ePnq7A](bit.ly/3ePnq7A)
+### Link to the form "Need for Therapy/Counseling During COVID-19" - [bit.ly/3ePnq7A](https://forms.gle/1BwEE94jK5uoBAtX6)
 If you are a social worker or clinical psychologist, please DM [what_a_sham](https://www.instagram.com/what_a_sham/) in order to help or volunteer.
