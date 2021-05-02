@@ -1,7 +1,7 @@
 ---
 title: "Caring for Your Mental Health During India’s COVID-19 Surge"
 ## author: "Shambhavi Priyam"
-date: "Last updated: May 2, 2021"
+date: "Last updated: May 3, 2021"
 output:
   html_document:
     theme: flatly
@@ -16,7 +16,7 @@ output:
 
 
 
-_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains a compilation of links, and material from cited sources. If you want to help expand or improve this please get in touch with [what_a_sham](https://www.instagram.com/what_a_sham/) (Instagram) or send a pull request ([Github](https://github.com/shambhavipriyam/covid_communityMH))._
+_Disclaimer: This document is managed by [what_a_sham](https://www.instagram.com/what_a_sham/), who is not a mental health care professional. This is a community project to help citizens in a time of need. This document contains a compilation of links, and material from cited sources. If you want to help expand or improve this page, please get in touch with [what_a_sham](https://www.instagram.com/what_a_sham/) (Instagram) or send a [pull request]((https://github.com/shambhavipriyam/covid_communityMH)) (Github)._
 
 ## If you are in need of immediate help
 
@@ -101,6 +101,25 @@ From [MOHFW](https://www.mohfw.gov.in/pdf/HCWMentalHealthSupportGuidanceJuly2020
 1. Headspace – 10 min meditation to reframe stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app.](https://www.headspace.com/headspace-meditation-app)
 2. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app.](https://www.calm.com/)
 
+
+## Get in touch with mental health professionals 
+You can contact the persons mentioned here directly and schedule a conversation with them. You can also fill the form and we will get in touch with you. [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
+
+1. [Mrigtrishna Rathore](https://www.instagram.com/mrigtrishna_rathore/) - _What you can therapy sessions_<br />
+  Contact: [Instagram](https://www.instagram.com/mrigtrishna_rathore/)
+2. [Prachi Desai Shah](https://www.instagram.com/prachidesai1410/) <br />
+  Contact: Email - prachidesaishah@gmail.com, Phone - +91 99875 94548
+
+### Other low-cost therapy 
+1. Therapize.india: Free 1:1 online counselling sessions conducted in English. Registation open begining of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO dates in May**
+2. [Dr. Prerna Kohli](https://www.instagram.com/drprernakohli.in/): One session of free counseling, by associates of Dr. Kohli, after which you can take additional counseling at very nominal charges. <br />
+[REGISTRATION LINK](https://www.mindtribe.in/free-counseling)
+3. [With Love We Care](https://withlovewecare.in/): Free mental health support. <br />
+Email: info@withlovewecare.in, WhatsApp: +91 9771413646. Time: 10am-12pm, 5pm-9pm
+4. [Mind Wellness India](http://mindwellnessindia.com/): **Free counseling for frontline workers**. <br />
+Email - mindwellnesscounselling@gmail.com, SMS: +91 9830463635
+5. [The Sister's Block](https://www.instagram.com/we.thesistersblock/): Counseling service at Rs. 100 per session. <br />
+[REGISTRATION LINK](https://forms.gle/PGP2KGCMjjj8XHQD8)
 
 ## Important Resources 
 Some resources you can read to get a better understanding of how to get help for yourself and offer help to others: 
