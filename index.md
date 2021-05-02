@@ -140,3 +140,9 @@ Some resources you can read to get a better understanding of how to get help for
 14.	[Guide for general medical and mental healthcare settings](https://www.mohfw.gov.in/pdf/COVID19Final2020ForOnline9July2020.pdf) – _MOHFW guideline_
 15.	**For community leaders**: [Grief leadership](https://www.cstsonline.org/assets/media/documents/CSTS_FS_Grief_Leadership_During_COVID19.pdf) – _2-page pamphlet with tips_
 16.	**For faith leader**: _webinar_ on [mental health and anxiety management](https://www.youtube.com/watch?v=8HJ7q-xs7_U) 
+
+
+## Donate to MH Campaigns
+Support Mental Health Needs of Covid-19 Workers - by One Future Collective <br />
+Campaign - [LINK](https://www.ourdemocracy.in/Campaign/covid19mentalhealth) <br />
+More information on [One Future Collective](https://drive.google.com/file/d/1KKsC1mKVpdM5bVbvEuqzydllfCh8T05h/view).
