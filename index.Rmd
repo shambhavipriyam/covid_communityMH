@@ -79,7 +79,7 @@ From [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream
 
 <div align="center">
 <figure>
-<img src="pics/stress_2.png" height=80%px>
+<img src="pics/stress_2.png">
 <figure>
 </div>
 
@@ -94,7 +94,7 @@ From [MOHFW](https://www.mohfw.gov.in/pdf/HCWMentalHealthSupportGuidanceJuly2020
 
 <div align="center">
 <figure>
-<img src="pics/yoga.png" height=60%>
+<img src="pics/yoga.png">
 <figure>
 </div>
 
