@@ -101,6 +101,19 @@ From [MOHFW](https://www.mohfw.gov.in/pdf/HCWMentalHealthSupportGuidanceJuly2020
 1. Headspace – 10 min meditation to reframe stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app.](https://www.headspace.com/headspace-meditation-app)
 2. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app.](https://www.calm.com/)
 
+### Grounding 
+Imgine you are in a tree during a storm. Up at that hight it may be difficult for you to be safe. It is much safer to be on the "ground".
+By bringing our mind and our body back to the present moment, we can sometimes allow ourselves the space for our brain to slow down and feel a bit more centered, at least enough so we can let someone know what's going on or that we need help, or figure out what to do next.
+
+Here are some steps you can follow for grounding if you feeling intense emotions. 
+
+
+<div align="center">
+<figure>
+<img src="pics/grounding.png">
+<figure>
+</div>
+From [The Growlery](http://www.tothegrowlery.com/blog/2017/4/18/six-different-types-of-grounding-exercises-for-anxiety-intense-emotions)
 
 ## Get in touch with mental health professionals 
 You can contact the persons mentioned here directly and schedule a conversation with them. You can also fill the form and we will get in touch with you. [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
