@@ -1,7 +1,7 @@
 ---
 title: "Caring for Your Mental Health During India’s COVID-19 Surge"
 ## author: "Shambhavi Priyam"
-date: "Last updated: May 3, 2021"
+date: "Last updated: May 5, 2021"
 output:
   html_document:
     theme: flatly
@@ -82,7 +82,7 @@ From [Doing What Matters in Times of Stress](https://apps.who.int/iris/bitstream
 </div>
 
 
-## Self-help 
+## Self-care 
 
 Here are some things you can do on your own and tell others to do:
 
@@ -109,6 +109,21 @@ You can contact the persons mentioned here directly and schedule a conversation 
   Contact: [Instagram](https://www.instagram.com/mrigtrishna_rathore/)
 2. [Prachi Desai Shah](https://www.instagram.com/prachidesai1410/) <br />
   Contact: Email - prachidesaishah@gmail.com, Phone - +91 99875 94548
+  
+## For healthcare and other institutions 
+
+### How to support your staff 
+From [Inter-Agency Standing Committee](https://interagencystandingcommittee.org/iasc-reference-group-mental-health-and-psychosocial-support-emergency-settings/iasc-guidance-basic-psychosocial-skills-guide-covid-19-responders)
+
+<div align="center">
+<figure>
+<img src="pics/staff_support.png">
+<figure>
+</div>
+
+Also in [Hindi](pics/staff_support_HN.png)
+
+
 
 ### Other low-cost therapy 
 1. Therapize.india: Free 1:1 online counselling sessions conducted in English. Registation open begining of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO dates in May**
@@ -140,6 +155,8 @@ Some resources you can read to get a better understanding of how to get help for
 14.	[Guide for general medical and mental healthcare settings](https://www.mohfw.gov.in/pdf/COVID19Final2020ForOnline9July2020.pdf) – _MOHFW guideline_
 15.	**For community leaders**: [Grief leadership](https://www.cstsonline.org/assets/media/documents/CSTS_FS_Grief_Leadership_During_COVID19.pdf) – _2-page pamphlet with tips_
 16.	**For faith leader**: _webinar_ on [mental health and anxiety management](https://www.youtube.com/watch?v=8HJ7q-xs7_U) 
+17. Resources for [mental health management](https://www.mhinnovation.net/cross-cutting-resources) for organizations - _collection of useful links and official documents_
+18. [A Guide for COVID-19 Responders](https://interagencystandingcommittee.org/iasc-reference-group-mental-health-and-psychosocial-support-emergency-settings/iasc-guidance-basic-psychosocial-skills-guide-covid-19-responders) in multiple languages - _26-page guide with case examples and illustrations_. Also in [Hindi](https://interagencystandingcommittee.org/system/files/2021-02/Basic%20Psychosocial%20Skills-%20A%20Guide%20for%20COVID-19%20Responders%20%28Hindi%29.pdf)
 
 
 ## Donate to MH Campaigns
