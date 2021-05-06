@@ -1,7 +1,7 @@
 ---
 title: "Caring for Your Mental Health During India’s COVID-19 Surge"
 ## author: "Shambhavi Priyam"
-date: "Last updated: May 5, 2021"
+date: "Last updated: May 7, 2021"
 output:
   html_document:
     theme: flatly
@@ -129,15 +129,15 @@ From [National Institite of Mental Health and Neurosciences](http://nimhans.ac.i
 
 **Try these:**
 
-1.	Use open ended questions – How are you feeling?
+1.	Use open ended questions – _How are you feeling?_
 
-2.	Permit them to express distressing thoughts and feelings – Please tell me more about it…
+2.	Permit them to express distressing thoughts and feelings – _Please tell me more about it…_
 
-3.	Listen actively – This must be difficult…
+3.	Listen actively – _This must be difficult…_
 
-4.	Validate their feelings related to the situation – These are challenging times and many things are not under our control. It is natural to feel sad/ anxious/ helpless/ stressed.
+4.	Validate their feelings related to the situation – _These are challenging times and many things are not under our control. It is natural to feel sad/ anxious/ helpless/ stressed._
 
-5.	Shift their focus to those things that are under their control – Are there other aspects in your current situation that are more manageable and can make you feel more in control of your life?
+5.	Shift their focus to those things that are under their control – _Are there other aspects in your current situation that are more manageable and can make you feel more in control of your life?_
 
 
 **Also do:** 
@@ -151,7 +151,7 @@ From [National Institite of Mental Health and Neurosciences](http://nimhans.ac.i
 
 **Avoid these:**
 
-1.	Trivializing a person’s experiences and feeling – It’s a small thing. Don’t bother. 
+1.	Trivializing a person’s experiences and feeling – _It’s a small thing. Don’t bother._ 
 
 2.	Interrupting the person or offering solutions when the person just wants to share feelings/thoughts. 
 
