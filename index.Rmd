@@ -99,6 +99,13 @@ From [MOHFW](https://www.mohfw.gov.in/pdf/HCWMentalHealthSupportGuidanceJuly2020
 </div>
 
 
+Video on Yoga for Stress Management (instructions in English and Hindi)
+From [NIMHANS](https://www.youtube.com/watch?v=qsK7SAfajoM)(April 2020)
+
+[![Video](pics/yoga_video.png)](https://www.youtube.com/watch?v=qsK7SAfajoM)
+
+
+
 ### App based meditation
 1. Headspace – 10 min meditation to reframe stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app.](https://www.headspace.com/headspace-meditation-app)
 2. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app.](https://www.calm.com/)
@@ -116,6 +123,52 @@ From [The Growlery](http://www.tothegrowlery.com/blog/2017/4/18/six-different-ty
 <figure>
 </div>
 
+## How to talk to someone dealing with COVID-19 related stress
+Your friends and family may reach out to you to talk about what they are feeling. Here are some things to keep in mind.
+
+From [National Institite of Mental Health and Neurosciences](http://nimhans.ac.in/wp-content/uploads/2020/05/Resource-Material-for-providing-basic-psychological-support-in-the-context-of-COVID19.pdf) (adapted for use by non-professionals)
+
+
+**Try these:**
+
+1.	Use open ended questions – How are you feeling?
+
+2.	Permit them to express distressing thoughts and feelings – Please tell me more about it…
+
+3.	Listen actively – This must be difficult…
+
+4.	Validate their feelings related to the situation – These are challenging times and many things are not under our control. It is natural to feel sad/ anxious/ helpless/ stressed.
+
+5.	Shift their focus to those things that are under their control – Are there other aspects in your current situation that are more manageable and can make you feel more in control of your life?
+
+
+**Also do:** 
+
+1.	Appreciate them for reaching out for help at such times.
+
+2.	Jointly explore what they can and would like to do to make themselves feel better.
+
+3.	Encourage them to reach out to professionals if problems persist. Let them know they shouldn’t feel stigmatized. 
+
+
+**Avoid these:**
+
+1.	Trivializing a person’s experiences and feeling – It’s a small thing. Don’t bother. 
+
+2.	Interrupting the person or offering solutions when the person just wants to share feelings/thoughts. 
+
+3.	Giving advice that may be difficult to follow. They may be limited supplies or space.
+
+4.	Offering too many suggestions/solutions within a brief span of time.
+
+5.	Providing personal opinions or information that you are not sure about or lack the qualifications for.
+
+6.	Be aware of your biases. Do not let them come in the way when you are offering support to someone in distress.
+
+
+
+
+
 ## Get in touch with mental health professionals 
 You can contact the persons mentioned here directly and schedule a conversation with them. You can also fill the form and we will get in touch with you. [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
 
@@ -123,6 +176,18 @@ You can contact the persons mentioned here directly and schedule a conversation 
   Contact: [Instagram](https://www.instagram.com/mrigtrishna_rathore/)
 2. [Prachi Desai Shah](https://www.instagram.com/prachidesai1410/) <br />
   Contact: Email - prachidesaishah@gmail.com, Phone - +91 99875 94548
+  
+### Other low-cost therapy 
+1. Therapize.india: Free 1:1 online counselling sessions conducted in English. Registation open begining of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO dates in May**
+2. [Dr. Prerna Kohli](https://www.instagram.com/drprernakohli.in/): One session of free counseling, by associates of Dr. Kohli, after which you can take additional counseling at very nominal charges. <br />
+[REGISTRATION LINK](https://www.mindtribe.in/free-counseling)
+3. [With Love We Care](https://withlovewecare.in/): Free mental health support. <br />
+Email: info@withlovewecare.in, WhatsApp: +91 9771413646. Time: 10am-12pm, 5pm-9pm
+4. [Mind Wellness India](http://mindwellnessindia.com/): **Free counseling for frontline workers**. <br />
+Email - mindwellnesscounselling@gmail.com, SMS: +91 9830463635
+5. [The Sister's Block](https://www.instagram.com/we.thesistersblock/): Counseling service at Rs. 100 per session. <br />
+[REGISTRATION LINK](https://forms.gle/PGP2KGCMjjj8XHQD8)
+
   
 ## For healthcare and other institutions 
 
@@ -137,18 +202,6 @@ From [Inter-Agency Standing Committee](https://interagencystandingcommittee.org/
 
 Also in [Hindi](pics/staff_support_HN.png)
 
-
-
-### Other low-cost therapy 
-1. Therapize.india: Free 1:1 online counselling sessions conducted in English. Registation open begining of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO dates in May**
-2. [Dr. Prerna Kohli](https://www.instagram.com/drprernakohli.in/): One session of free counseling, by associates of Dr. Kohli, after which you can take additional counseling at very nominal charges. <br />
-[REGISTRATION LINK](https://www.mindtribe.in/free-counseling)
-3. [With Love We Care](https://withlovewecare.in/): Free mental health support. <br />
-Email: info@withlovewecare.in, WhatsApp: +91 9771413646. Time: 10am-12pm, 5pm-9pm
-4. [Mind Wellness India](http://mindwellnessindia.com/): **Free counseling for frontline workers**. <br />
-Email - mindwellnesscounselling@gmail.com, SMS: +91 9830463635
-5. [The Sister's Block](https://www.instagram.com/we.thesistersblock/): Counseling service at Rs. 100 per session. <br />
-[REGISTRATION LINK](https://forms.gle/PGP2KGCMjjj8XHQD8)
 
 ## Important Resources 
 Some resources you can read to get a better understanding of how to get help for yourself and offer help to others: 
@@ -171,6 +224,7 @@ Some resources you can read to get a better understanding of how to get help for
 16.	**For faith leader**: _webinar_ on [mental health and anxiety management](https://www.youtube.com/watch?v=8HJ7q-xs7_U) 
 17. Resources for [mental health management](https://www.mhinnovation.net/cross-cutting-resources) for organizations - _collection of useful links and official documents_
 18. [A Guide for COVID-19 Responders](https://interagencystandingcommittee.org/iasc-reference-group-mental-health-and-psychosocial-support-emergency-settings/iasc-guidance-basic-psychosocial-skills-guide-covid-19-responders) in multiple languages - _26-page guide with case examples and illustrations_. Also in [Hindi](https://interagencystandingcommittee.org/system/files/2021-02/Basic%20Psychosocial%20Skills-%20A%20Guide%20for%20COVID-19%20Responders%20%28Hindi%29.pdf)
+19. [Psychosocial Care for Frontline Health Care Worders](https://nimhans.ac.in/wp-content/uploads/2021/04/FHW-Manual-Final.pdf)(NIMHANS) - _comprehensive information manual_
 
 
 ## Donate to MH Campaigns
