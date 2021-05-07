@@ -1,7 +1,7 @@
 ---
 title: "Caring for Your Mental Health During India’s COVID-19 Surge"
 ## author: "Shambhavi Priyam"
-date: "Last updated: May 7, 2021"
+date: "Last updated: May 8, 2021"
 output:
   html_document:
     theme: flatly
@@ -177,7 +177,7 @@ You can contact the persons mentioned here directly and schedule a conversation 
 
   
 ### Other low-cost therapy 
-1. Therapize.india: Free 1:1 online counselling sessions conducted in English. Registation open begining of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO dates in May**
+1. Therapize.india: Free 1:1 online counselling sessions conducted in English. Registation open begining of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO DATESIN MAY**
 2. [Dr. Prerna Kohli](https://www.instagram.com/drprernakohli.in/): One session of free counseling, by associates of Dr. Kohli, after which you can take additional counseling at very nominal charges. <br />
 [REGISTRATION LINK](https://www.mindtribe.in/free-counseling)
 3. [With Love We Care](https://withlovewecare.in/): Free mental health support. <br />
@@ -187,7 +187,7 @@ Email - mindwellnesscounselling@gmail.com, SMS: +91 9830463635
 5. [The Sister's Block](https://www.instagram.com/we.thesistersblock/): Counseling service at Rs. 100 per session. <br />
 [REGISTRATION LINK](https://forms.gle/PGP2KGCMjjj8XHQD8)
 6. [Reality And You](https://www.instagram.com/realityandyoufoundation/): Offering free counselling services and funding free medical services for the lower socioeconomic groups.<br />
-[LINK TO SUPPORT GROUP FORM](https://docs.google.com/forms/d/1N1iB-0OBlwTFHXkKp5rzimLk8sBl_cBbhc1i1dCHXYw/viewform?ts=6088fd70&edit_requested=true)
+[LINK TO SUPPORT GROUP FOR PRETEENS](https://docs.google.com/forms/d/1N1iB-0OBlwTFHXkKp5rzimLk8sBl_cBbhc1i1dCHXYw/viewform?ts=6088fd70&edit_requested=true)
 
   
 ## For healthcare and other institutions 
