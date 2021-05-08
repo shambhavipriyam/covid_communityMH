@@ -109,10 +109,11 @@ From [NIMHANS](https://www.youtube.com/watch?v=qsK7SAfajoM)(April 2020)
 2. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app.](https://www.calm.com/)
 
 ### Grounding 
-Imgine you are in a tree during a storm. Up at that hight it may be difficult for you to be safe. It is much safer to be on the "ground". <br />
+Imagine you are in a tree during a storm. Up at that height it may be difficult for you to be safe. It is much safer to be on the "ground". <br />
+
 By bringing our mind and our body back to the present moment, we can sometimes allow ourselves the space for our brain to slow down and feel a bit more centered, at least enough so we can let someone know what's going on or that we need help, or figure out what to do next.
 
-Here are some steps you can follow for grounding if you feeling intense emotions. <br />
+Here are some steps you can follow for grounding if you are feeling intense emotions. <br />
 From [The Growlery](http://www.tothegrowlery.com/blog/2017/4/18/six-different-types-of-grounding-exercises-for-anxiety-intense-emotions)
 
 <div align="center">
@@ -124,7 +125,7 @@ From [The Growlery](http://www.tothegrowlery.com/blog/2017/4/18/six-different-ty
 ## How to talk to someone dealing with COVID-19 related stress
 Your friends and family may reach out to you to talk about what they are feeling. Here are some things to keep in mind.
 
-From [National Institite of Mental Health and Neurosciences](http://nimhans.ac.in/wp-content/uploads/2020/05/Resource-Material-for-providing-basic-psychological-support-in-the-context-of-COVID19.pdf) (adapted for use by non-professionals)
+From [National Institute of Mental Health and Neurosciences](http://nimhans.ac.in/wp-content/uploads/2020/05/Resource-Material-for-providing-basic-psychological-support-in-the-context-of-COVID19.pdf) (adapted for use by non-professionals)
 
 
 **Try these:**
@@ -155,7 +156,7 @@ From [National Institite of Mental Health and Neurosciences](http://nimhans.ac.i
 
 2.	Interrupting the person or offering solutions when the person just wants to share feelings/thoughts. 
 
-3.	Giving advice that may be difficult to follow. They may be limited supplies or space.
+3.	Giving advice that may be difficult to follow. They may be limited in supplies or space.
 
 4.	Offering too many suggestions/solutions within a brief span of time.
 
@@ -168,16 +169,16 @@ From [National Institite of Mental Health and Neurosciences](http://nimhans.ac.i
 
 
 ## Get in touch with mental health professionals 
-You can contact the persons mentioned here directly and schedule a conversation with them. You can also fill the form and we will get in touch with you. [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
+You can contact the persons mentioned here directly and schedule a conversation with them. You can also fill out the form and we will get in touch with you. [[LINK](https://forms.gle/1BwEE94jK5uoBAtX6)]
 
-1. [Mrigtrishna Rathore](https://www.instagram.com/mrigtrishna_rathore/) - _What you can therapy sessions_<br />
+1. [Mrigtrishna Rathore](https://www.instagram.com/mrigtrishna_rathore/) - _Pay what you can therapy sessions_<br />
   Contact: [Instagram](https://www.instagram.com/mrigtrishna_rathore/)
 2. [Prachi Desai Shah](https://www.instagram.com/prachidesai1410/) <br />
   Contact: Email - prachidesaishah@gmail.com, Phone - +91 99875 94548
 
   
 ### Other low-cost therapy 
-1. Therapize.india: Free 1:1 online counselling sessions conducted in English. Registation open begining of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO DATESIN MAY**
+1. Therapize.india: Free 1:1 online counseling sessions conducted in English. Registration open beginning of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO DATES IN MAY**
 2. [Dr. Prerna Kohli](https://www.instagram.com/drprernakohli.in/): One session of free counseling, by associates of Dr. Kohli, after which you can take additional counseling at very nominal charges. <br />
 [REGISTRATION LINK](https://www.mindtribe.in/free-counseling)
 3. [With Love We Care](https://withlovewecare.in/): Free mental health support. <br />
