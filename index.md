@@ -1,7 +1,7 @@
 ---
 title: "Caring for Your Mental Health During India’s COVID-19 Surge"
 ## author: "Shambhavi Priyam"
-date: "Last updated: May 20, 2021"
+date: "Last updated: May 21, 2021"
 output:
   html_document:
     theme: flatly
