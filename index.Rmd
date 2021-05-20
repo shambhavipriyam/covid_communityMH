@@ -1,7 +1,7 @@
 ---
 title: "Caring for Your Mental Health During India’s COVID-19 Surge"
 ## author: "Shambhavi Priyam"
-date: "Last updated: May 8, 2021"
+date: "Last updated: May 20, 2021"
 output:
   html_document:
     theme: flatly
@@ -107,8 +107,17 @@ From [NIMHANS](https://www.youtube.com/watch?v=qsK7SAfajoM)(April 2020)
 
 
 ### App based meditation
-1. Headspace – 10 min meditation to reframe stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app.](https://www.headspace.com/headspace-meditation-app)
-2. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app.](https://www.calm.com/)
+1. Wysa - made their modules free because of the pandemic [Download app.](https://www.wysa.io/)
+2. Headspace – 10 min meditation to reframe stress [(video)](http://youtube.com/watch?v=sG7DBA-mgFY). [Download app.](https://www.headspace.com/headspace-meditation-app)
+3. Calm – Take a deep breath [(video playlist)](https://www.youtube.com/watch?v=zilmlTO5i9Q&list=PLgdxvG3Ulbie6EIEToXVPV73_Zf2DiCLl). [Download app.](https://www.calm.com/)
+
+### Tips to manage stress
+<div align="center">
+<figure>
+<img src="pics/tips_1.jpeg">
+<figure>
+</div>
+
 
 ### Grounding 
 Imagine you are in a tree during a storm. Up at that height it may be difficult for you to be safe. It is much safer to be on the "ground". <br />
@@ -180,16 +189,17 @@ You can contact the persons mentioned here directly and schedule a conversation 
 
   
 ### Other low-cost therapy 
-1. Therapize.india: Free 1:1 online counseling sessions conducted in English. Registration open beginning of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO DATES IN MAY**
-2. [Dr. Prerna Kohli](https://www.instagram.com/drprernakohli.in/): One session of free counseling, by associates of Dr. Kohli, after which you can take additional counseling at very nominal charges. <br />
+1. Therapy Fund: 2 free sessions per person. [FORM LINK](https://docs.google.com/forms/d/e/1FAIpQLSchCS_tnuYVDRpYUbr1SDeQgKgGV6bXkn_04KvzvJSweMjqng/viewform)
+2. Therapize.india: Free 1:1 online counseling sessions conducted in English. Registration open beginning of the week. [REGISTRATION LINK](https://calendly.com/therapize/probono?month=2021-05) **NO DATES IN MAY**
+3. [Dr. Prerna Kohli](https://www.instagram.com/drprernakohli.in/): One session of free counseling, by associates of Dr. Kohli, after which you can take additional counseling at very nominal charges. <br />
 [REGISTRATION LINK](https://www.mindtribe.in/free-counseling)
-3. [With Love We Care](https://withlovewecare.in/): Free mental health support. <br />
+4. [With Love We Care](https://withlovewecare.in/): Free mental health support. <br />
 Email: info@withlovewecare.in, WhatsApp: +91 9771413646. Time: 10am-12pm, 5pm-9pm
-4. [Mind Wellness India](http://mindwellnessindia.com/): **Free counseling for frontline workers**. <br />
+5. [Mind Wellness India](http://mindwellnessindia.com/): **Free counseling for frontline workers**. <br />
 Email - mindwellnesscounselling@gmail.com, SMS: +91 9830463635
-5. [The Sister's Block](https://www.instagram.com/we.thesistersblock/): Counseling service at Rs. 100 per session. <br />
+6. [The Sister's Block](https://www.instagram.com/we.thesistersblock/): Counseling service at Rs. 100 per session. <br />
 [REGISTRATION LINK](https://forms.gle/PGP2KGCMjjj8XHQD8)
-6. [Reality And You](https://www.instagram.com/realityandyoufoundation/): Offering free counselling services and funding free medical services for the lower socioeconomic groups.<br />
+7. [Reality And You](https://www.instagram.com/realityandyoufoundation/): Offering free counselling services and funding free medical services for the lower socioeconomic groups.<br />
 [LINK TO SUPPORT GROUP FOR PRETEENS](https://docs.google.com/forms/d/1N1iB-0OBlwTFHXkKp5rzimLk8sBl_cBbhc1i1dCHXYw/viewform?ts=6088fd70&edit_requested=true)
 
   
