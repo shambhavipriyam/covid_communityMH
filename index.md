@@ -240,6 +240,9 @@ Some resources you can read to get a better understanding of how to get help for
 
 
 ## Donate to MH Campaigns
-Support Mental Health Needs of Covid-19 Workers - by One Future Collective <br />
+1. Support Mental Health Needs of Covid-19 Workers - by One Future Collective <br />
 Campaign - [LINK](https://www.ourdemocracy.in/Campaign/covid19mentalhealth) <br />
 More information on [One Future Collective](https://drive.google.com/file/d/1KKsC1mKVpdM5bVbvEuqzydllfCh8T05h/view).
+
+2. Therapy Fund India - Supoorting counseling for those who need it <br />
+Campaight - [LINK](https://milaap.org/fundraisers/support-therapy-fund-india)
